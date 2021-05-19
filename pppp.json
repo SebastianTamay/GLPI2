@@ -1,0 +1,5426 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00110831857,
+                    -0.00425640337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058986662,
+                    -0.00299236454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217951540,
+                    -0.00436314850
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00220692981,
+                    -0.00449068032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043492,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00192230246,
+                        -0.00470208707
+                    ],
+                    [
+                        0.00182043492,
+                        -0.00460021952
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00198458800,
+                    -0.00450642277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00216348784,
+                    -0.00447473610
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00057859327,
+                    -0.00316670043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00215716279,
+                    -0.00449084261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060763938,
+                    -0.00292401933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00110831856,
+                    -0.00256283341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00192230247,
+                    -0.00559345445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00220188555,
+                    -0.00449688255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00215035524,
+                        -0.00409049577
+                    ],
+                    [
+                        0.00254442090,
+                        -0.00409049577
+                    ],
+                    [
+                        0.00255898343,
+                        -0.00407888083
+                    ],
+                    [
+                        0.00216207545,
+                        -0.00407884574
+                    ],
+                    [
+                        0.00215035524,
+                        -0.00409049577
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00217951540,
+                        -0.00436314850
+                    ],
+                    [
+                        0.00207396335,
+                        -0.00446620912
+                    ],
+                    [
+                        0.00236998631,
+                        -0.00446568276
+                    ],
+                    [
+                        0.00248694275,
+                        -0.00436314850
+                    ],
+                    [
+                        0.00217951540,
+                        -0.00436314850
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00220692981,
+                    -0.00448089886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00008524770,
+                    -0.00425640337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00218192787,
+                    -0.00448089886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00058073379,
+                        -0.00305301179
+                    ],
+                    [
+                        -0.00067484635,
+                        -0.00314487857
+                    ],
+                    [
+                        -0.00041089605,
+                        -0.00314442239
+                    ],
+                    [
+                        -0.00030664235,
+                        -0.00305301179
+                    ],
+                    [
+                        -0.00058073379,
+                        -0.00305301179
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00025537522,
+                        -0.00280994031
+                    ],
+                    [
+                        -0.00024235666,
+                        -0.00279955354
+                    ],
+                    [
+                        -0.00024235666,
+                        -0.00303034337
+                    ],
+                    [
+                        -0.00025537522,
+                        -0.00304069505
+                    ],
+                    [
+                        -0.00025537522,
+                        -0.00280994031
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00237728512,
+                    -0.00450642277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058322521,
+                    -0.00316235361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058887477,
+                    -0.00282460811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00216018057,
+                        -0.00448094711
+                    ],
+                    [
+                        0.00216028145,
+                        -0.00447900617
+                    ],
+                    [
+                        0.00216348784,
+                        -0.00447473610
+                    ],
+                    [
+                        0.00217415533,
+                        -0.00447046603
+                    ],
+                    [
+                        0.00219663953,
+                        -0.00446852509
+                    ],
+                    [
+                        0.00221897405,
+                        -0.00447046603
+                    ],
+                    [
+                        0.00222927803,
+                        -0.00447473610
+                    ],
+                    [
+                        0.00223211432,
+                        -0.00447900617
+                    ],
+                    [
+                        0.00223204579,
+                        -0.00448094711
+                    ],
+                    [
+                        0.00221739443,
+                        -0.00447637932
+                    ],
+                    [
+                        0.00220623677,
+                        -0.00447464399
+                    ],
+                    [
+                        0.00219913205,
+                        -0.00447450746
+                    ],
+                    [
+                        0.00219663953,
+                        -0.00447473610
+                    ],
+                    [
+                        0.00219427860,
+                        -0.00447460615
+                    ],
+                    [
+                        0.00218730548,
+                        -0.00447490716
+                    ],
+                    [
+                        0.00217588463,
+                        -0.00447667539
+                    ],
+                    [
+                        0.00216018057,
+                        -0.00448094711
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00060343730,
+                        -0.00307375024
+                    ],
+                    [
+                        -0.00033046876,
+                        -0.00307375024
+                    ],
+                    [
+                        -0.00060343730,
+                        -0.00307375024
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00057379465,
+                    -0.00315264671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645102,
+                        -0.00266470097
+                    ],
+                    [
+                        0.00276271853,
+                        -0.00266470097
+                    ],
+                    [
+                        0.00286458608,
+                        -0.00256283342
+                    ],
+                    [
+                        -0.00110831857,
+                        -0.00256283342
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00266470097
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00053668377,
+                    -0.00316857229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00252750730,
+                    -0.00432998803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043492,
+                        -0.00549158690
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00234993651,
+                    -0.00432998803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00059501998,
+                    -0.00315249319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00110831857,
+                        -0.00256283341
+                    ],
+                    [
+                        -0.00110831857,
+                        -0.00425640337
+                    ],
+                    [
+                        -0.00110831857,
+                        -0.00256283341
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056130136,
+                    -0.00316801358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00100645102,
+                    -0.00415453583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00216928160,
+                    -0.00429514432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00058073379,
+                        -0.00305301179
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00059787492,
+                    -0.00315630489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00008524769,
+                    -0.00425640337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00207396335,
+                    -0.00446620912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219004692,
+                    -0.00449728226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00192230246,
+                    -0.00559345455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219442884,
+                    -0.00447887677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060666562,
+                    -0.00280864196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645102,
+                        -0.00415453583
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00266470101
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00415453583
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219442884,
+                    -0.00449270240
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00222902801,
+                    -0.00449084261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00075453674,
+                    -0.00319888275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00065080940,
+                        -0.00312238559
+                    ],
+                    [
+                        -0.00039159632,
+                        -0.00312238559
+                    ],
+                    [
+                        -0.00065080940,
+                        -0.00312238559
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00058322521,
+                        -0.00316235361
+                    ],
+                    [
+                        -0.00058198169,
+                        -0.00315995265
+                    ],
+                    [
+                        -0.00057859327,
+                        -0.00315798923
+                    ],
+                    [
+                        -0.00057357314,
+                        -0.00315666402
+                    ],
+                    [
+                        -0.00056743451,
+                        -0.00315617769
+                    ],
+                    [
+                        -0.00056130136,
+                        -0.00315666402
+                    ],
+                    [
+                        -0.00055629329,
+                        -0.00315798923
+                    ],
+                    [
+                        -0.00055291694,
+                        -0.00315995265
+                    ],
+                    [
+                        -0.00055167890,
+                        -0.00316235361
+                    ],
+                    [
+                        -0.00055291694,
+                        -0.00316474908
+                    ],
+                    [
+                        -0.00055629329,
+                        -0.00316670043
+                    ],
+                    [
+                        -0.00056130136,
+                        -0.00316801358
+                    ],
+                    [
+                        -0.00056743451,
+                        -0.00316849443
+                    ],
+                    [
+                        -0.00057357314,
+                        -0.00316801358
+                    ],
+                    [
+                        -0.00057859327,
+                        -0.00316670043
+                    ],
+                    [
+                        -0.00058198169,
+                        -0.00316474908
+                    ],
+                    [
+                        -0.00058322521,
+                        -0.00316235361
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217674325,
+                    -0.00448578959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00182043496,
+                    -0.00460021952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00033046876,
+                    -0.00307375024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711524,
+                        -0.00549158690
+                    ],
+                    [
+                        0.00018711524,
+                        -0.00415453582
+                    ],
+                    [
+                        0.00008524769,
+                        -0.00425640337
+                    ],
+                    [
+                        0.00008524769,
+                        -0.00559345445
+                    ],
+                    [
+                        0.00018711524,
+                        -0.00549158690
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043496,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00192230247,
+                        -0.00470208707
+                    ],
+                    [
+                        0.00182043496,
+                        -0.00460021952
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00055691615,
+                    -0.00315240985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00237721494,
+                        -0.00450642277
+                    ],
+                    [
+                        0.00237721494,
+                        -0.00452677522
+                    ],
+                    [
+                        0.00198458800,
+                        -0.00452677522
+                    ],
+                    [
+                        0.00198458800,
+                        -0.00450642277
+                    ],
+                    [
+                        0.00237721494,
+                        -0.00450642277
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060666562,
+                    -0.00303809835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00027046411,
+                    -0.00302343055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00192230246,
+                        -0.00559345455
+                    ],
+                    [
+                        0.00192230246,
+                        -0.00470208707
+                    ],
+                    [
+                        0.00192230246,
+                        -0.00559345455
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00062550919,
+                    -0.00309771701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00212926589,
+                        -0.00441332783
+                    ],
+                    [
+                        0.00242627137,
+                        -0.00441332783
+                    ],
+                    [
+                        0.00212926589,
+                        -0.00441332783
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00247207811,
+                    -0.00432998803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00276271853,
+                    -0.00460021952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00242627137,
+                    -0.00441332783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00059627885,
+                    -0.00279951845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00215042542,
+                        -0.00434644545
+                    ],
+                    [
+                        0.00198602671,
+                        -0.00450642277
+                    ],
+                    [
+                        0.00237728512,
+                        -0.00450642277
+                    ],
+                    [
+                        0.00254880720,
+                        -0.00434644545
+                    ],
+                    [
+                        0.00215042542,
+                        -0.00434644545
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00065080940,
+                    -0.00312238559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00008524769,
+                    -0.00559345445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056130136,
+                    -0.00315666402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00215992616,
+                    -0.00449705362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00025537522,
+                    -0.00303939670
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00008524769,
+                    -0.00425640336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711524,
+                        -0.00549158690
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00192230247,
+                        -0.00470208707
+                    ],
+                    [
+                        0.00286458607,
+                        -0.00470208706
+                    ],
+                    [
+                        0.00192230247,
+                        -0.00470208707
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00255905361,
+                    -0.00433770793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00057357314,
+                    -0.00315666402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00075453674,
+                    -0.00318074100
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271854,
+                        -0.00266470097
+                    ],
+                    [
+                        0.00286458594,
+                        -0.00256283341
+                    ],
+                    [
+                        0.00276271854,
+                        -0.00266470097
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00237721494,
+                        -0.00450642277
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217039188,
+                    -0.00410698828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00254442090,
+                    -0.00434788415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219427860,
+                    -0.00447460615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00060666562,
+                        -0.00303809835
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043492,
+                        -0.00549158697
+                    ],
+                    [
+                        0.00192230246,
+                        -0.00559345455
+                    ],
+                    [
+                        0.00182043492,
+                        -0.00549158697
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056324888,
+                    -0.00315228868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271853,
+                        -0.00266470097
+                    ],
+                    [
+                        0.00276271853,
+                        -0.00460021971
+                    ],
+                    [
+                        0.00276271853,
+                        -0.00266470097
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00254880720,
+                    -0.00434644545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00053382883,
+                    -0.00315630489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00222730145,
+                    -0.00432998803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00036075181,
+                    -0.00309771701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043492,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00182043492,
+                        -0.00549158697
+                    ],
+                    [
+                        0.00182043492,
+                        -0.00460021952
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217588463,
+                    -0.00447667539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00055629329,
+                    -0.00316670043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060066516,
+                    -0.00316684518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271853,
+                        -0.00266470097
+                    ],
+                    [
+                        0.00286458608,
+                        -0.00256283342
+                    ],
+                    [
+                        0.00276271853,
+                        -0.00266470097
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00234851535,
+                    -0.00434788415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00039159632,
+                    -0.00312238559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00276271853,
+                    -0.00266470097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00212926589,
+                    -0.00441332783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00215709370,
+                    -0.00449278355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271852,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00286458607,
+                        -0.00470208706
+                    ],
+                    [
+                        0.00276271852,
+                        -0.00460021952
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00182043492,
+                    -0.00549158690
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00053955077,
+                    -0.00317237193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00223204579,
+                    -0.00448094711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00008524775,
+                        -0.00559345444
+                    ],
+                    [
+                        0.00192230246,
+                        -0.00559345444
+                    ],
+                    [
+                        0.00008524775,
+                        -0.00559345444
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00060673580,
+                        -0.00280994031
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00110831857,
+                    -0.00256283342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00276271853,
+                    -0.00460021971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00040447450,
+                    -0.00318074100
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00215035524,
+                        -0.00409049577
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711525,
+                        -0.00415453582
+                    ],
+                    [
+                        -0.00100645103,
+                        -0.00415453582
+                    ],
+                    [
+                        0.00018711525,
+                        -0.00415453582
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217039188,
+                    -0.00432998803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00254442090,
+                    -0.00408905706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00100645102,
+                    -0.00266470097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00025537522,
+                        -0.00280994031
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00060666562,
+                        -0.00280864196
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00053636192,
+                    -0.00315249319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pc2": "2"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00217039188,
+                        -0.00410698828
+                    ],
+                    [
+                        0.00217002179,
+                        -0.00414183199
+                    ],
+                    [
+                        0.00216940497,
+                        -0.00421848815
+                    ],
+                    [
+                        0.00216928160,
+                        -0.00429514432
+                    ],
+                    [
+                        0.00217039188,
+                        -0.00432998803
+                    ],
+                    [
+                        0.00222730145,
+                        -0.00432998803
+                    ],
+                    [
+                        0.00234993651,
+                        -0.00432998803
+                    ],
+                    [
+                        0.00247207811,
+                        -0.00432998803
+                    ],
+                    [
+                        0.00252750730,
+                        -0.00432998803
+                    ],
+                    [
+                        0.00252750730,
+                        -0.00410698828
+                    ],
+                    [
+                        0.00217039188,
+                        -0.00410698828
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00030989918,
+                    -0.00303939670
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00042878779,
+                    -0.00302343055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645102,
+                        -0.00266470097
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00055629329,
+                    -0.00315798923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00216207545,
+                    -0.00407884574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00060673580,
+                        -0.00280994031
+                    ],
+                    [
+                        -0.00025537522,
+                        -0.00280994031
+                    ],
+                    [
+                        -0.00024242684,
+                        -0.00279955354
+                    ],
+                    [
+                        -0.00059627885,
+                        -0.00279951845
+                    ],
+                    [
+                        -0.00060673580,
+                        -0.00280994031
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00210094790,
+                    -0.00444097910
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00110831851,
+                    -0.00425640337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00192230246,
+                    -0.00559345444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00254442090,
+                        -0.00409049577
+                    ],
+                    [
+                        0.00255905361,
+                        -0.00407888083
+                    ],
+                    [
+                        0.00255905361,
+                        -0.00433770793
+                    ],
+                    [
+                        0.00254442090,
+                        -0.00434935795
+                    ],
+                    [
+                        0.00254442090,
+                        -0.00409049577
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00248326867,
+                    -0.00434788415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00025148018,
+                    -0.00303809835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00018711524,
+                    -0.00415453582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00246020383,
+                    -0.00438644855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219253395,
+                    -0.00450326463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00060666562,
+                        -0.00280864196
+                    ],
+                    [
+                        -0.00060703078,
+                        -0.00284469739
+                    ],
+                    [
+                        -0.00060763938,
+                        -0.00292401933
+                    ],
+                    [
+                        -0.00060776110,
+                        -0.00300334127
+                    ],
+                    [
+                        -0.00060666562,
+                        -0.00303939670
+                    ],
+                    [
+                        -0.00055068102,
+                        -0.00303939670
+                    ],
+                    [
+                        -0.00043004666,
+                        -0.00303939670
+                    ],
+                    [
+                        -0.00030989918,
+                        -0.00303939670
+                    ],
+                    [
+                        -0.00025537522,
+                        -0.00303939670
+                    ],
+                    [
+                        -0.00025537522,
+                        -0.00280864196
+                    ],
+                    [
+                        -0.00060666562,
+                        -0.00280864196
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00237721494,
+                    -0.00450642277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00221739443,
+                    -0.00447637932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00040447450,
+                        -0.00318074100
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645102,
+                        -0.00266470097
+                    ],
+                    [
+                        -0.00110831856,
+                        -0.00256283341
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00266470097
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00057766776,
+                    -0.00317247281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056701178,
+                    -0.00317250516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00216940497,
+                    -0.00421848815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00040447450,
+                    -0.00319888275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00222902801,
+                        -0.00449084261
+                    ],
+                    [
+                        0.00222892164,
+                        -0.00449278355
+                    ],
+                    [
+                        0.00222570319,
+                        -0.00449705362
+                    ],
+                    [
+                        0.00221502364,
+                        -0.00450132369
+                    ],
+                    [
+                        0.00219253395,
+                        -0.00450326463
+                    ],
+                    [
+                        0.00217021972,
+                        -0.00450132369
+                    ],
+                    [
+                        0.00215992616,
+                        -0.00449705362
+                    ],
+                    [
+                        0.00215709370,
+                        -0.00449278355
+                    ],
+                    [
+                        0.00215716279,
+                        -0.00449084261
+                    ],
+                    [
+                        0.00217180866,
+                        -0.00449541040
+                    ],
+                    [
+                        0.00218295426,
+                        -0.00449714573
+                    ],
+                    [
+                        0.00219004692,
+                        -0.00449728226
+                    ],
+                    [
+                        0.00219253395,
+                        -0.00449705362
+                    ],
+                    [
+                        0.00219490036,
+                        -0.00449718356
+                    ],
+                    [
+                        0.00220188555,
+                        -0.00449688255
+                    ],
+                    [
+                        0.00221331846,
+                        -0.00449511432
+                    ],
+                    [
+                        0.00222902801,
+                        -0.00449084261
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00210094790,
+                        -0.00444097910
+                    ],
+                    [
+                        0.00239163712,
+                        -0.00444097910
+                    ],
+                    [
+                        0.00210094790,
+                        -0.00444097910
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00055059932,
+                    -0.00317065743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00100645102,
+                    -0.00415453582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060343730,
+                    -0.00307375024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00058322521,
+                        -0.00316235361
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00059796319,
+                        -0.00315803748
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00054696472,
+                    -0.00315395877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060703078,
+                    -0.00284469739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00031988515,
+                    -0.00302343055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00215042542,
+                        -0.00408905706
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056911885,
+                    -0.00317238947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00286458607,
+                    -0.00470208706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00053659001,
+                        -0.00316684518
+                    ],
+                    [
+                        -0.00053668377,
+                        -0.00316857229
+                    ],
+                    [
+                        -0.00053955077,
+                        -0.00317237193
+                    ],
+                    [
+                        -0.00054906960,
+                        -0.00317617156
+                    ],
+                    [
+                        -0.00056911885,
+                        -0.00317789867
+                    ],
+                    [
+                        -0.00058901458,
+                        -0.00317617156
+                    ],
+                    [
+                        -0.00059819567,
+                        -0.00317237193
+                    ],
+                    [
+                        -0.00060072492,
+                        -0.00316857229
+                    ],
+                    [
+                        -0.00060066516,
+                        -0.00316684518
+                    ],
+                    [
+                        -0.00058760877,
+                        -0.00317092390
+                    ],
+                    [
+                        -0.00057766776,
+                        -0.00317247281
+                    ],
+                    [
+                        -0.00057133887,
+                        -0.00317259398
+                    ],
+                    [
+                        -0.00056911885,
+                        -0.00317238947
+                    ],
+                    [
+                        -0.00056701178,
+                        -0.00317250516
+                    ],
+                    [
+                        -0.00056078926,
+                        -0.00317223595
+                    ],
+                    [
+                        -0.00055059932,
+                        -0.00317065743
+                    ],
+                    [
+                        -0.00053659001,
+                        -0.00316684518
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219663953,
+                    -0.00447473610
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00216018057,
+                    -0.00448094711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00055291694,
+                    -0.00316474908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00220130766,
+                    -0.00449216015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711525,
+                        -0.00415453586
+                    ],
+                    [
+                        0.00008524769,
+                        -0.00425640336
+                    ],
+                    [
+                        0.00018711525,
+                        -0.00415453586
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00215042542,
+                    -0.00434788415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00018711525,
+                    -0.00415453582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00192230247,
+                    -0.00470208707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00024235666,
+                    -0.00279955354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217021972,
+                    -0.00450132369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00059796319,
+                        -0.00315803748
+                    ],
+                    [
+                        -0.00059787492,
+                        -0.00315630489
+                    ],
+                    [
+                        -0.00059501998,
+                        -0.00315249319
+                    ],
+                    [
+                        -0.00058551321,
+                        -0.00314868149
+                    ],
+                    [
+                        -0.00056546944,
+                        -0.00314694890
+                    ],
+                    [
+                        -0.00054555343,
+                        -0.00314868149
+                    ],
+                    [
+                        -0.00053636192,
+                        -0.00315249319
+                    ],
+                    [
+                        -0.00053382883,
+                        -0.00315630489
+                    ],
+                    [
+                        -0.00053388805,
+                        -0.00315803748
+                    ],
+                    [
+                        -0.00054696472,
+                        -0.00315395877
+                    ],
+                    [
+                        -0.00055691615,
+                        -0.00315240985
+                    ],
+                    [
+                        -0.00056324888,
+                        -0.00315228868
+                    ],
+                    [
+                        -0.00056546944,
+                        -0.00315249319
+                    ],
+                    [
+                        -0.00056757597,
+                        -0.00315237750
+                    ],
+                    [
+                        -0.00057379465,
+                        -0.00315264671
+                    ],
+                    [
+                        -0.00058397417,
+                        -0.00315422523
+                    ],
+                    [
+                        -0.00059796319,
+                        -0.00315803748
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00025148018,
+                    -0.00305238016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00221897405,
+                    -0.00447046603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00059819567,
+                    -0.00317237193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00058887477,
+                        -0.00282460811
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060666562,
+                    -0.00303939670
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00286458608,
+                    -0.00470208707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00182043492,
+                    -0.00460021952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00053659001,
+                    -0.00316684518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711525,
+                        -0.00549158690
+                    ],
+                    [
+                        0.00008524769,
+                        -0.00559345445
+                    ],
+                    [
+                        0.00018711525,
+                        -0.00549158690
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043491,
+                        -0.00549158689
+                    ],
+                    [
+                        0.00192230246,
+                        -0.00559345444
+                    ],
+                    [
+                        0.00182043491,
+                        -0.00549158689
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00218755001,
+                    -0.00449216015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058073379,
+                    -0.00305301179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00027046411,
+                    -0.00282460811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645102,
+                        -0.00266470097
+                    ],
+                    [
+                        0.00276271854,
+                        -0.00266470097
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00266470097
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271853,
+                        -0.00460021971
+                    ],
+                    [
+                        0.00286458607,
+                        -0.00470208730
+                    ],
+                    [
+                        0.00276271853,
+                        -0.00460021971
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056546944,
+                    -0.00314694890
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00218295426,
+                    -0.00449714573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058887477,
+                    -0.00302343055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00286458607,
+                        -0.00470208730
+                    ],
+                    [
+                        0.00286458608,
+                        -0.00256283342
+                    ],
+                    [
+                        0.00286458607,
+                        -0.00470208730
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00025537522,
+                    -0.00304069505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00237721494,
+                        -0.00450642277
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00024242684,
+                    -0.00279955354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00218730548,
+                    -0.00447490716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058198169,
+                    -0.00315995265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00254880720,
+                    -0.00436244669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060673580,
+                    -0.00280994031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043492,
+                        -0.00460021952
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00221321593,
+                    -0.00434788415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00223211432,
+                    -0.00447900617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00057859327,
+                    -0.00315798923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00054906960,
+                    -0.00317617156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00222892164,
+                    -0.00449278355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00215042542,
+                        -0.00434644545
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00030664235,
+                    -0.00305301179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00222927803,
+                    -0.00447473610
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00286458594,
+                        -0.00256283341
+                    ],
+                    [
+                        -0.00110831856,
+                        -0.00256283341
+                    ],
+                    [
+                        0.00286458594,
+                        -0.00256283341
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00057133887,
+                    -0.00317259398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00055068102,
+                    -0.00303939670
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00215035524,
+                    -0.00409049577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060072492,
+                    -0.00316857229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00018711524,
+                    -0.00549158690
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043492,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00182043492,
+                        -0.00549158690
+                    ],
+                    [
+                        0.00192230247,
+                        -0.00559345445
+                    ],
+                    [
+                        0.00192230247,
+                        -0.00470208707
+                    ],
+                    [
+                        0.00182043492,
+                        -0.00460021952
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271853,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00182043492,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00192230247,
+                        -0.00470208707
+                    ],
+                    [
+                        0.00286458608,
+                        -0.00470208707
+                    ],
+                    [
+                        0.00276271853,
+                        -0.00460021952
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00218192787,
+                    -0.00449068032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00276271852,
+                    -0.00460021952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00075323839,
+                    -0.00318074100
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645102,
+                        -0.00415453582
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00217951540,
+                        -0.00436314850
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00054555343,
+                    -0.00314868149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00025537522,
+                    -0.00280994031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00053813125,
+                    -0.00302343055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00216018057,
+                        -0.00448094711
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00255898343,
+                    -0.00407888083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711525,
+                        -0.00415453582
+                    ],
+                    [
+                        0.00008524770,
+                        -0.00425640337
+                    ],
+                    [
+                        0.00018711525,
+                        -0.00415453582
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00220623677,
+                    -0.00447464399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00100645103,
+                    -0.00415453582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00055291694,
+                    -0.00315995265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058760877,
+                    -0.00317092390
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271853,
+                        -0.00460021952
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00215001585,
+                    -0.00412949879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00215042542,
+                    -0.00434644545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056078926,
+                    -0.00317223595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00254442090,
+                    -0.00434935795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00222570319,
+                    -0.00449705362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711524,
+                        -0.00415453582
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00415453582
+                    ],
+                    [
+                        -0.00110831857,
+                        -0.00425640337
+                    ],
+                    [
+                        0.00008524769,
+                        -0.00425640337
+                    ],
+                    [
+                        0.00018711524,
+                        -0.00415453582
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00221502364,
+                    -0.00450132369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217415533,
+                    -0.00447046603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00254442090,
+                        -0.00409049577
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056911885,
+                    -0.00317789867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00018711525,
+                    -0.00415453586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00182043491,
+                    -0.00549158689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00221072286,
+                    -0.00448848333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00214933323,
+                    -0.00421847061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00040447450,
+                        -0.00318074100
+                    ],
+                    [
+                        -0.00040447450,
+                        -0.00319888275
+                    ],
+                    [
+                        -0.00025148018,
+                        -0.00305238016
+                    ],
+                    [
+                        -0.00025148018,
+                        -0.00303809835
+                    ],
+                    [
+                        -0.00040447450,
+                        -0.00318074100
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00053659001,
+                        -0.00316684518
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00221072286,
+                    -0.00448309585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00024235666,
+                    -0.00303034337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00254442090,
+                    -0.00409049577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00222902801,
+                        -0.00449084261
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711524,
+                        -0.00415453582
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00059796319,
+                    -0.00315803748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00053388805,
+                    -0.00315803748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058920539,
+                    -0.00285567412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043491,
+                        -0.00549158689
+                    ],
+                    [
+                        0.00018711533,
+                        -0.00549158689
+                    ],
+                    [
+                        0.00182043491,
+                        -0.00549158689
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00221331846,
+                    -0.00449511432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00215403974,
+                        -0.00438644855
+                    ],
+                    [
+                        0.00246020383,
+                        -0.00438644855
+                    ],
+                    [
+                        0.00215403974,
+                        -0.00438644855
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219913205,
+                    -0.00447450746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00182043492,
+                    -0.00549158697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00055167890,
+                    -0.00316235361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00025537522,
+                    -0.00280864196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00040447450,
+                        -0.00318074100
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00214919671,
+                    -0.00430744242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00286458608,
+                    -0.00256283342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217002179,
+                    -0.00414183199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00057357314,
+                    -0.00316801358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056743451,
+                    -0.00315617769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711525,
+                        -0.00549158690
+                    ],
+                    [
+                        0.00018711525,
+                        -0.00415453586
+                    ],
+                    [
+                        0.00018711525,
+                        -0.00549158690
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00067484635,
+                    -0.00314487857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219663953,
+                    -0.00446852509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645102,
+                        -0.00266470101
+                    ],
+                    [
+                        -0.00110831857,
+                        -0.00256283341
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00266470101
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219253395,
+                    -0.00449705362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058901458,
+                    -0.00317617156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00060776110,
+                    -0.00300334127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00192230246,
+                    -0.00470208707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00255905361,
+                    -0.00407888083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00043004666,
+                    -0.00303939670
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00062550919,
+                        -0.00309771701
+                    ],
+                    [
+                        -0.00036075181,
+                        -0.00309771701
+                    ],
+                    [
+                        -0.00062550919,
+                        -0.00309771701
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00237721494,
+                        -0.00450642277
+                    ],
+                    [
+                        0.00237721494,
+                        -0.00452677522
+                    ],
+                    [
+                        0.00254880720,
+                        -0.00436244669
+                    ],
+                    [
+                        0.00254880720,
+                        -0.00434644545
+                    ],
+                    [
+                        0.00237721494,
+                        -0.00450642277
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00221211442,
+                    -0.00448578959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00239163712,
+                    -0.00444097910
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00018711533,
+                    -0.00549158689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00110831851,
+                        -0.00425640337
+                    ],
+                    [
+                        0.00008524770,
+                        -0.00425640337
+                    ],
+                    [
+                        -0.00110831851,
+                        -0.00425640337
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00008524769,
+                        -0.00425640336
+                    ],
+                    [
+                        0.00008524769,
+                        -0.00559345445
+                    ],
+                    [
+                        0.00008524769,
+                        -0.00425640336
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058551321,
+                    -0.00314868149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00040443941,
+                    -0.00318074100
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058975642,
+                    -0.00292401933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00215042542,
+                        -0.00408905706
+                    ],
+                    [
+                        0.00215001585,
+                        -0.00412949879
+                    ],
+                    [
+                        0.00214933323,
+                        -0.00421847061
+                    ],
+                    [
+                        0.00214919671,
+                        -0.00430744242
+                    ],
+                    [
+                        0.00215042542,
+                        -0.00434788415
+                    ],
+                    [
+                        0.00221321593,
+                        -0.00434788415
+                    ],
+                    [
+                        0.00234851535,
+                        -0.00434788415
+                    ],
+                    [
+                        0.00248326867,
+                        -0.00434788415
+                    ],
+                    [
+                        0.00254442090,
+                        -0.00434788415
+                    ],
+                    [
+                        0.00254442090,
+                        -0.00408905706
+                    ],
+                    [
+                        0.00215042542,
+                        -0.00408905706
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00040447450,
+                        -0.00318074100
+                    ],
+                    [
+                        -0.00040447450,
+                        -0.00319888275
+                    ],
+                    [
+                        -0.00075453674,
+                        -0.00319888275
+                    ],
+                    [
+                        -0.00075453674,
+                        -0.00318074100
+                    ],
+                    [
+                        -0.00040447450,
+                        -0.00318074100
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00252750730,
+                    -0.00410698828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00182043492,
+                        -0.00549158690
+                    ],
+                    [
+                        0.00018711524,
+                        -0.00549158690
+                    ],
+                    [
+                        0.00008524769,
+                        -0.00559345445
+                    ],
+                    [
+                        0.00192230247,
+                        -0.00559345445
+                    ],
+                    [
+                        0.00182043492,
+                        -0.00549158690
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00286458594,
+                    -0.00256283341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00286458607,
+                    -0.00470208730
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00248694275,
+                    -0.00436314850
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056757597,
+                    -0.00315237750
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271853,
+                        -0.00266470097
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00100645102,
+                    -0.00266470101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00215042542,
+                    -0.00408905706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00215403974,
+                    -0.00438644855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00018711525,
+                    -0.00549158690
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00217674325,
+                        -0.00448578959
+                    ],
+                    [
+                        0.00217813481,
+                        -0.00448309585
+                    ],
+                    [
+                        0.00218192787,
+                        -0.00448089886
+                    ],
+                    [
+                        0.00218755001,
+                        -0.00447941903
+                    ],
+                    [
+                        0.00219442884,
+                        -0.00447887677
+                    ],
+                    [
+                        0.00220130766,
+                        -0.00447941903
+                    ],
+                    [
+                        0.00220692981,
+                        -0.00448089886
+                    ],
+                    [
+                        0.00221072286,
+                        -0.00448309585
+                    ],
+                    [
+                        0.00221211442,
+                        -0.00448578959
+                    ],
+                    [
+                        0.00221072286,
+                        -0.00448848333
+                    ],
+                    [
+                        0.00220692981,
+                        -0.00449068032
+                    ],
+                    [
+                        0.00220130766,
+                        -0.00449216015
+                    ],
+                    [
+                        0.00219442884,
+                        -0.00449270240
+                    ],
+                    [
+                        0.00218755001,
+                        -0.00449216015
+                    ],
+                    [
+                        0.00218192787,
+                        -0.00449068032
+                    ],
+                    [
+                        0.00217813481,
+                        -0.00448848333
+                    ],
+                    [
+                        0.00217674325,
+                        -0.00448578959
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00041089605,
+                    -0.00314442239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00216028145,
+                    -0.00447900617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00236998631,
+                    -0.00446568276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00217674325,
+                        -0.00448578959
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00219490036,
+                    -0.00449718356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058397417,
+                    -0.00315422523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217813481,
+                    -0.00448309585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00008524775,
+                    -0.00559345444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217180866,
+                    -0.00449541040
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271853,
+                        -0.00266470097
+                    ],
+                    [
+                        0.00276271853,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00286458608,
+                        -0.00470208707
+                    ],
+                    [
+                        0.00286458608,
+                        -0.00256283342
+                    ],
+                    [
+                        0.00276271853,
+                        -0.00266470097
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645102,
+                        -0.00415453582
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00266470097
+                    ],
+                    [
+                        -0.00110831857,
+                        -0.00256283342
+                    ],
+                    [
+                        -0.00110831857,
+                        -0.00425640337
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00415453582
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00220130766,
+                    -0.00447941903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056743451,
+                    -0.00316849443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00276271854,
+                    -0.00266470097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00018711533,
+                        -0.00549158689
+                    ],
+                    [
+                        0.00008524775,
+                        -0.00559345444
+                    ],
+                    [
+                        0.00018711533,
+                        -0.00549158689
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00060666562,
+                        -0.00303809835
+                    ],
+                    [
+                        -0.00075323839,
+                        -0.00318074100
+                    ],
+                    [
+                        -0.00040443941,
+                        -0.00318074100
+                    ],
+                    [
+                        -0.00025148018,
+                        -0.00303809835
+                    ],
+                    [
+                        -0.00060666562,
+                        -0.00303809835
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00110831857,
+                    -0.00256283341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00198458800,
+                    -0.00452677522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00237721494,
+                    -0.00452677522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645102,
+                        -0.00415453583
+                    ],
+                    [
+                        -0.00110831857,
+                        -0.00425640337
+                    ],
+                    [
+                        -0.00100645102,
+                        -0.00415453583
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pc1": "1"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00058887477,
+                        -0.00282460811
+                    ],
+                    [
+                        -0.00058920539,
+                        -0.00285567412
+                    ],
+                    [
+                        -0.00058975642,
+                        -0.00292401933
+                    ],
+                    [
+                        -0.00058986662,
+                        -0.00299236454
+                    ],
+                    [
+                        -0.00058887477,
+                        -0.00302343055
+                    ],
+                    [
+                        -0.00053813125,
+                        -0.00302343055
+                    ],
+                    [
+                        -0.00042878779,
+                        -0.00302343055
+                    ],
+                    [
+                        -0.00031988515,
+                        -0.00302343055
+                    ],
+                    [
+                        -0.00027046411,
+                        -0.00302343055
+                    ],
+                    [
+                        -0.00027046411,
+                        -0.00282460811
+                    ],
+                    [
+                        -0.00058887477,
+                        -0.00282460811
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00056546944,
+                    -0.00315249319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "borde": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00276271852,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00182043496,
+                        -0.00460021952
+                    ],
+                    [
+                        0.00276271852,
+                        -0.00460021952
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00218755001,
+                    -0.00447941903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00217813481,
+                    -0.00448848333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        -0.00100645103,
+                        -0.00415453582
+                    ],
+                    [
+                        -0.00110831851,
+                        -0.00425640337
+                    ],
+                    [
+                        -0.00100645103,
+                        -0.00415453582
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00058198169,
+                    -0.00316474908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[
+                        0.00217039188,
+                        -0.00410698828
+                    ]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mesa": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00198602671,
+                    -0.00450642277
+                ]
+            }
+        }
+    ]
+}
